@@ -1,6 +1,6 @@
 {
-  "name": "gqnedb",
-  "version": "0.0.1",
+  "name": "gqsimplenedb",
+  "version": "0.0.2",
   "description": "A wrapper module for nedb for crud operations.",
   "repository": "git@github.com:goldfiction/gqnedb.git",
   "private": false,

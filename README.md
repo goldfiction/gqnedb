@@ -29,7 +29,7 @@
 ```
 ### Installing
 
-* npm install --save gqnedb
+* npm install --save gqsimplenedb
 * npm test
 
 ## Help
